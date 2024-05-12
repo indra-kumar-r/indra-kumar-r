@@ -54,3 +54,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/indra-kumar-r/indra-kumar-r/output/snake.svg" alt="Snake animation" />
+
+###
