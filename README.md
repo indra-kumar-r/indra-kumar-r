@@ -4,13 +4,6 @@
 
 <div align="left">
 </div>
-
-###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/tumblr_matpckY4rp1rnbh24o1_r1_500.gifv"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
