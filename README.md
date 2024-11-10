@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://thumbs.dreamstime.com/b/angular-logo-editorial-illustrative-white-background-angular-logo-editorial-illustrative-white-background-eps-download-208329119.jpg" height="30" alt="angular logo"  />
+  <img src="https://banner2.cleanpng.com/20180420/sxw/avfx2yube.webp" height="30" alt="angular logo"  />
   <img width="12" />
   <img src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" height="30" alt="golang logo"  />
   <img width="12" />
@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/color/512/express-js.png" height="30" alt="express logo"  />
+  <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
