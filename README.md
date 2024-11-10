@@ -7,17 +7,17 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://banner2.cleanpng.com/20180420/sxw/avfx2yube.webp" height="30" alt="angular logo"  />
+  <img src="https://www.svgrepo.com/show/439061/angular.svg" height="30" alt="angular logo"  />
   <img width="12" />
-  <img src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" height="30" alt="golang logo"  />
+  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-golang-3d-icon-download-in-png-blend-fbx-gltf-file-formats--google-logo-go-programming-language-coding-lang-pack-logos-icons-7578004.png" height="30" alt="golang logo"  />
   <img width="12" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://swimburger.net/media/0zcpmk1b/azure.jpg" height="30" alt="azure logo"  />
+  <img src="https://www.svgrepo.com/show/331302/azure-v2.svg" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" height="30" alt="express logo"  />
+  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
