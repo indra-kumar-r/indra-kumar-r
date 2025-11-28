@@ -51,9 +51,14 @@
 ###
 
 <div align="center">
-  <a href="https://indra-kumar-r.vercel.app/" target="_blank">
-    Portfolio 🔗 
+  <a 
+    href="https://indra-kumar-r.vercel.app/" 
+    target="_blank"
+    style="text-decoration: none; font-weight: 700; text-transform: uppercase; color: inherit;"
+  >
+    <h2>PORTFOLIO 🔗</h2>
   </a>
 </div>
+
 
 ###
