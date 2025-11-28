@@ -56,7 +56,7 @@
     target="_blank"
     style="text-decoration: none; font-weight: 700; text-transform: uppercase; color: inherit;"
   >
-    <h2>PORTFOLIO 🔗</h2>
+    PORTFOLIO 🔗
   </a>
 </div>
 
