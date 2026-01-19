@@ -1,64 +1,36 @@
-<h3 align="left">INDRA KUMAR R</h3>
+<h3 align="center">Indra Kumar R</h3>
+<h4 align="center">Software Development Engineer @ Geektrust</h>
 
-###
+<p align="center">
+  <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  </a>
 
-<div align="left">
-</div>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/439061/angular.svg" height="30" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-golang-3d-icon-download-in-png-blend-fbx-gltf-file-formats--google-logo-go-programming-language-coding-lang-pack-logos-icons-7578004.png" height="30" alt="golang logo"  />
-  <img width="12" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/331302/azure-v2.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://logowik.com/content/uploads/images/express-js1720895488.logowik.com.webp" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
+  <a href="https://golang.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  </a>
 
-###
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+         alt="MongoDB"
+         width="40"
+         height="40"/>
+  </a>
+</p>
 
-<div align="center">
+<p align="center" style="margin-top: 12px;">
   <a href="https://www.linkedin.com/in/indra-kumar-r/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
   </a>
-</div>
+</p>
 
-###
-
-<div align="center">
-  <a 
-    href="https://indra-kumar-r.vercel.app/" 
-    target="_blank"
-    style="text-decoration: none; font-weight: 700; text-transform: uppercase; color: inherit;"
-  >
-    PORTFOLIO 🔗
+<p align="center">
+  <a href="https://indra-kumar-r-v1.vercel.app/"
+     target="_blank"
+     style="text-decoration: none; color: inherit; font-weight: 600; font-size: 16px;">
+      Portfolio
   </a>
-</div>
-
-
-###
+</p>
