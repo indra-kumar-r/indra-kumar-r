@@ -1,5 +1,5 @@
 <h3 align="center">Indra Kumar R</h3>
-<h4 align="center">Software Development Engineer @ Geektrust</h>
+<h4 align="center">Full-Stack Developer</h>
 
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin-right: 20px;">
