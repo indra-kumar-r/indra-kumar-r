@@ -11,6 +11,14 @@
   </a>
 
   <a href="https://golang.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://zonalogo.com/assets/nodejs-logo-png-svg.webp" alt="Node.js" width="40" height="40"/>
+  </a>
+
+  <a href="https://golang.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express.js" width="40" height="40"/>
+  </a>
+
+  <a href="https://golang.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>
 
