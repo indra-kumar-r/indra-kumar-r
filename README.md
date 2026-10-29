@@ -7,6 +7,10 @@
   </a>
 
   <a href="https://golang.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png" alt="React" width="40" height="40"/>
+  </a>
+
+  <a href="https://golang.org" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>
 
